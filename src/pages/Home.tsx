@@ -344,7 +344,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-16">
           <div className="text-center max-w-3xl mx-auto space-y-4">
             <h2 id="integrations-heading" className="font-display text-3xl sm:text-4xl font-extrabold tracking-tight text-neutral-950">
-              Integrates directly with your engineering suite
+              Integrates directly
             </h2>
             <p className="text-base sm:text-lg text-gray-600">
               No complex setup processes. Authorize OAuth connections in seconds and let our system automatically fetch profiles, tags, and contract numbers.
